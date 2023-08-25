@@ -1,14 +1,18 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Tycho</h1>
-<h3 align="center">I'm passionate about Microsoft technologies, Azure, and driving innovation. My dream is to become a well-known figure in the IT community ✈️🌎</h3>
+<h3 align="center">Technical Consultant & Technology Enthusiast</h3>
+<h4 align="center">Passionate about Microsoft technologies, Azure, and driving innovation. Striving to become a well-known figure in the IT community ✈️🌎</h4>
 
-- 🌱 I’m currently exploring **Azure (Entra)**, **Microsoft 365**, **Security**, and **Modern Work**
-- 👨‍💻 Check out my insights and tech blogs at [CurrentCloud](https://currentcloud.net)
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/tycholoke) or tycho.loke@peoplerock.nl
-- 😄 My Pronouns: `he/him`
+- 🌱 **Exploring:** `Azure (Entra)`, `Microsoft 365`, `Security`, `Modern Work`
+- 📝 **Blogging:** Insights and tech blogs at [CurrentCloud](https://currentcloud.net)
+- 🏎️ **Hobbies:** Formula 1 fan, Traveling, Gaming
+- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/tycholoke) or tycho.loke@peoplerock.nl
+- 😄 **Pronouns:** `he/him`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tycholoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TychoLoke" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/tycholoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TychoLoke" height="30" width="40" /></a>
+<a href="https://currentcloud.net" target="blank"><img align="center" src="https://www.currentcloud.net/favicon.ico" alt="CurrentCloud" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
