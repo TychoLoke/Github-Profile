@@ -7,6 +7,7 @@
 - 🏎️ **Hobbies:** Formula 1 fan, Traveling, Gaming
 - 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/tycholoke) or tycho.loke@peoplerock.nl
 - 😄 **Pronouns:** `he/him`
+- **Next Speaking Location:** Edinburgh Castle in Scotland on the 11th and 12th of October.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
