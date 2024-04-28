@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=tycholoke.com&style=for-the-badge&url=https%3A%2F%2Ftycholoke.com)](https://tycholoke.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TychoLoke?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTychoLoke&screen_name=TychoLoke)
 
-<h4 align="center">Passionate about Microsoft technologies, Azure, and driving innovation. Striving to become a well-known figure in the IT community ✈️🌎</h4>
+<h4>Passionate about Microsoft technologies, Azure, and driving innovation. Striving to become a well-known figure in the IT community ✈️🌎</h4>
 
 - 🌱 **Exploring:** `Azure (Entra)`, `Microsoft 365`, `Security`, `Modern Work`
 - 📝 **Blogging:** Insights and tech blogs at [CurrentCloud](https://currentcloud.net)
