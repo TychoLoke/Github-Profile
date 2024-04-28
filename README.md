@@ -1,5 +1,10 @@
-<h1 align="center">👋 Hi, I'm Tycho</h1>
-<h3 align="center">Technical Consultant & Technology Enthusiast</h3>
+<h1 ">👋 Hi, I'm Tycho</h1>
+<h3 >Technical Consultant & Technology Enthusiast</h3>
+
+[![Website](https://img.shields.io/website?label=CurrentCloud.net&style=for-the-badge&url=https%3A%2F%2Fcurrentcloud.net)](https://currentcloud.net)
+[![Website](https://img.shields.io/website?label=tycholoke.com&style=for-the-badge&url=https%3A%2F%2Ftycholoke.com)](https://tycholoke.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TychoLoke?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTychoLoke&screen_name=TychoLoke)
+
 <h4 align="center">Passionate about Microsoft technologies, Azure, and driving innovation. Striving to become a well-known figure in the IT community ✈️🌎</h4>
 
 - 🌱 **Exploring:** `Azure (Entra)`, `Microsoft 365`, `Security`, `Modern Work`
