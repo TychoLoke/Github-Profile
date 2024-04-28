@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Tycho</h1>
+<h1 align="center">👋 Hi, I'm Tycho</h1>
 <h3 align="center">Technical Consultant & Technology Enthusiast</h3>
 <h4 align="center">Passionate about Microsoft technologies, Azure, and driving innovation. Striving to become a well-known figure in the IT community ✈️🌎</h4>
 
@@ -8,23 +8,36 @@
 - 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/tycholoke) or tycho.loke@peoplerock.nl
 - 😄 **Pronouns:** `he/him`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tycholoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TychoLoke" height="30" width="40" /></a>
-<a href="https://currentcloud.net" target="blank"><img align="center" src="https://www.currentcloud.net/favicon.ico" alt="CurrentCloud" height="30" width="40" /></a>
-</p>
+## Connect with me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://azure.microsoft.com" target="_blank"> <img src="https://azure.microsoft.com/svghandler/azure/" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"> <img src="https://www.microsoft.com/favicon.ico" alt="microsoft-365" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="visual-studio" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" width="40" height="40"/> </a>
-<a href="https://www.powershellgallery.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="40" height="40"/> </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tycholoke)
+[![CurrentCloud](https://skillicons.dev/icons?i=website)](https://currentcloud.net)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TychoLoke&show_icons=true&theme=radical&locale=en&layout=compact" alt="TychoLoke" /></p>
+## My Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TychoLoke&show_icons=true&theme=radical&locale=en" alt="TychoLoke" /></p>
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](#)
+[![Windows](https://skillicons.dev/icons?i=windows)](#)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://www.powershellgallery.com/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](#)
+[![HTML](https://skillicons.dev/icons?i=html)](#)
+[![CSS](https://skillicons.dev/icons?i=css)](#)
+[![PHP](https://skillicons.dev/icons?i=php)](#)
+[![MD](https://skillicons.dev/icons?i=md)](#)
+[![Photoshop](https://skillicons.dev/icons?i=ps)](#)
+[![After Effects](https://skillicons.dev/icons?i=ae)](#)
+[![Premiere](https://skillicons.dev/icons?i=pr)](#)
+[![Audition](https://skillicons.dev/icons?i=au)](#)
+[![Figma](https://skillicons.dev/icons?i=figma)](#)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](#)
+[![Bash](https://skillicons.dev/icons?i=bash)](#)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](#)
+[![Discord](https://skillicons.dev/icons?i=discord)](#)
+[![Git](https://skillicons.dev/icons?i=git)](#)
+[![GitHub](https://skillicons.dev/icons?i=github)](#)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](#)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TychoLoke&theme=highcontrast" alt="TychoLoke" /></p>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tycholoke&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tycholoke&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
