@@ -13,6 +13,10 @@
 - 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/tycholoke) or tycho.loke@peoplerock.nl
 - 😄 **Pronouns:** `he/him`
 
+## Listening Too
+
+[![Spotify](https://spvercel.currentcloud.net/api/spotify)](https://open.spotify.com/user/1197337261)
+
 ## Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tycholoke)
