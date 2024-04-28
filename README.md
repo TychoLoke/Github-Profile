@@ -39,5 +39,5 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](#)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](#)
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tycholoke&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tycholoke&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://vercel.currentcloud.net/api?username=tycholoke&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://vercel.currentcloud.net/api/top-langs/?username=tycholoke&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
