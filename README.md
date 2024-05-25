@@ -17,6 +17,8 @@
 
 [![Spotify](https://spvercel.currentcloud.net/api/spotify)](https://open.spotify.com/user/1197337261)
 
+**Link to my Spotify Playlist:** [Epic Rock Legacy by Tycho Loke](https://open.spotify.com/playlist/3bSI6EvAOiQyr3T0DgB6ed?si=b042e9c23d884533)
+
 ## Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tycholoke)
